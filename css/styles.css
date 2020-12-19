@@ -12,14 +12,14 @@
 }
 .text{
     padding-top: 250px;
-    padding-bottom: 180px;
+    padding-bottom: 200px;
     color: aliceblue;
     text-align: center;
 }
 h1{
     font-size: 35px;
 }
-h2{
+.h2{
     font-size: 10px;
     padding-top: 0px;
 }
