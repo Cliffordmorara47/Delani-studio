@@ -64,3 +64,22 @@ h4{
     font-size: 18px;
     font-weight: bold;
 }
+.images{
+    padding-left: 120px;
+}
+.img1{
+    width: 220px;
+    padding-right: 5px;
+}
+.img2{
+    width: 220px;
+    padding-right: 5px;
+}
+.img3{
+    width: 220px;
+    padding-right: 5px;
+}
+.img4{
+    width: 220px;
+    padding-left: 0px;
+}
