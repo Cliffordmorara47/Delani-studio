@@ -55,9 +55,18 @@ h3{
     padding: 30px;
 }
 .col-md-4{
-    align-items: center;
+    text-emphasis: padding;
+    font-weight: bold;
     text-align: center;
     font-size: 12px;
+    
+}
+.design{
+    padding-right: 170px;
+}
+.logo3{
+    padding-left: 170px;
+    text-align: right;
 }
 h4{
     text-align: center;
@@ -65,21 +74,21 @@ h4{
     font-weight: bold;
 }
 .images{
-    padding-left: 120px;
+    padding-left: 60px;
 }
 .img1{
-    width: 220px;
-    padding-right: 5px;
+    width: 250px;
+    padding-right: 10px;
 }
 .img2{
-    width: 220px;
-    padding-right: 5px;
+    width: 250px;
+    padding-right: 10px;
 }
 .img3{
-    width: 220px;
-    padding-right: 5px;
+    width: 250px;
+    padding-right: 10px;
 }
 .img4{
-    width: 220px;
-    padding-left: 0px;
+    width: 250px;
+    padding-left: 5px;
 }
