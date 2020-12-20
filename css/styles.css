@@ -19,15 +19,27 @@
 h1{
     font-size: 35px;
 }
+h2{
+    font-size: 30px;
+    font-weight: unset;
+}
 .h2{
     font-size: 10px;
     padding-top: 0px;
 }
 .img-click{
-    padding-top: 80px;
+    padding-top: 100px;
     padding-bottom: 0px;
 }
 .about{
     text-align: center;
     padding-top: 30px;
+    font-weight: 500;
+}
+.services{
+    text-align: center;
+    background-image: url("../images/s_image.jpg");
+    color: aliceblue;
+    padding: 100px;
+    font-weight: 500;
 }
