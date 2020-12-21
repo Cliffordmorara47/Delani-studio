@@ -61,12 +61,18 @@ h3{
     font-size: 12px;
     
 }
-.design{
-    padding-right: 170px;
+.head1{
+    font-size: 15px;
+    font-weight: bolder;
 }
-.logo3{
-    padding-left: 170px;
-    text-align: right;
+.head2{
+    font-size: 15px;
+}
+.head3{
+    font-size: 15px;
+}
+.design-info, .dev-info, .product-info{
+    display: none;
 }
 h4{
     text-align: center;
