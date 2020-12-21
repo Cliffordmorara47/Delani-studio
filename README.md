@@ -4,8 +4,8 @@
 ---
 ## _About_
 _Delani studio is based on doing the following services;_
-- Recording audio musics.
-- Shooting music videos.
+- Drafting application for companies and organisations.
+- Drafting out websites for companies.
 - Marketing our client's products.
 - And much more services.
 ---
