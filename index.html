@@ -71,14 +71,24 @@
            </div>
         </div>
         <div class="contacts">
-            <h2>CONTACT US</h2>
+            <h5>CONTACT US</h5>
             <div class="column">
-                <form action="/action_page.php">
-                  <input type="text" id="fname" name="firstname" placeholder="Name...">
-                  <input type="email" id="email" name="E-mail" placeholder="Email...">
-                  <textarea id="message" name="message" placeholder="Your message here..." style="height:170px"></textarea> 
+                <form>
+                    <div class="row">
+                            <div class="name">
+                                <input type="text" id="fname" name="firstname" placeholder="Name..." style="width: 100%;">
+                            </div>    
+                            <div class="sname">
+                                <input type="text" id="email" name="E-mail" placeholder="Email..." style="width: 100%;">
+                            </div>    
+                    </div>
+                    <div class="row">
+                        <div class="message">
+                            <textarea id="message" name="message" placeholder="Your message here..." style="height:250px; width:800px"></textarea>
+                        </div>
+                    </div>
                 </form>
-        </div>
+            </div>
     </div>
 </body>
 </html>
