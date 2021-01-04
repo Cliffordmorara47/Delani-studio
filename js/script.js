@@ -23,4 +23,8 @@ $(".product-info").click(function(){
     $(".logo3").toggle();
     $(".product-info").toggle();
 })
+
+$(function validate(){
+
+});
 });
